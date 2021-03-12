@@ -1,0 +1,34 @@
+{
+    "teams": [
+        {
+            "Temporada": 2021.0,
+            "clube": "Olimpia",
+            "jogos": "2",
+            " Gols": "-"
+        },
+        {
+            "Temporada": 2020.0,
+            "clube": "Nautico",
+            "jogos": "28",
+            " Gols": "4"
+        },
+        {
+            "Temporada": 2019.0,
+            "clube": "Zamora FC",
+            "jogos": "19",
+            " Gols": "5"
+        },
+        {
+            "Temporada": 2018.0,
+            "clube": "Olimpia",
+            "jogos": "3",
+            " Gols": "1"
+        },
+        {
+            "Temporada": 2018,
+            "clube": "Olimpia [Reservas]",
+            "jogos": "5",
+            " Gols": "2"
+        }
+    ]
+}
